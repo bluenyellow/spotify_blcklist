@@ -568,8 +568,6 @@
 0.0.0.0pagead2.googlesyndication.com
 0.0.0.0pagead46.l.doubleclick.net
 0.0.0.0partner.googleadservices.com
-0.0.0.0people-pa.googleapis.com#Youcanremovethis.Justprivacy.
-0.0.0.0platform-lookaside.fbsbx.com#Youcanremovethis.Justprivacy.
 0.0.0.0r5---sn-5hnednlr.gvt1.com
 0.0.0.0redirector.gvt1.com
 0.0.0.0rp-lb-766892831.us-east-1.elb.amazonaws.com
